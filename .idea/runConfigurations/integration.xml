@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="integration" type="GoTestRunConfiguration" factoryName="Go Test">
+    <module name="GO-11240" />
+    <target name="tests" />
+    <working_directory value="$PROJECT_DIR$/tests/integration" />
+    <go_parameters value="-tags=tests" />
+    <root_directory value="$PROJECT_DIR$" />
+    <kind value="PACKAGE" />
+    <package value="sample/tests/integration" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$" />
+    <framework value="gotest" />
+    <method v="2" />
+  </configuration>
+</component>
